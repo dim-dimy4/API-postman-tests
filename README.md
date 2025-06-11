@@ -68,6 +68,10 @@ api-postman-tests/
 ├── TestCollection.postman_collection.json
 └── newman-report.html
 ```
+## Notes
+
+This project uses a `.gitignore` file (Node.js template) to avoid tracking unnecessary files if extended in future.
+
 ## Contacts
 E-mail: kachuk.mail@gmail.com
 LinkedIn: [Dmytro Kachuk](https://www.linkedin.com/in/dmytro-kachuk-289628206/)  
