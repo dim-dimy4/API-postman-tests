@@ -1,5 +1,3 @@
-# API-postman-tests
-Automated API testing project using Postman and Newman.
 # API Testing Project with Postman & Newman
 
 This repository contains automated API tests using [JSONPlaceholder](https://jsonplaceholder.typicode.com), written in Postman and executable via Newman CLI.  
