@@ -63,10 +63,12 @@ pm.test("Response has title", function () {
 ```
 ## Project Structure
 ```bash
-api-postman-tests/
+├── .gitignore
 ├── README.md
-├── TestCollection.postman_collection.json
-└── newman-report.html
+└──  api-postman-tests/
+    ├── TestCollection.postman_collection.json
+    └── newman-report.html
+
 ```
 ## Notes
 
